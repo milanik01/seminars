@@ -1,0 +1,15 @@
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/project.AssemblyInfo.cs
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
+/Users/sdfsdfssfsdfds/seminars/project/bin/Debug/net6.0/project
+/Users/sdfsdfssfsdfds/seminars/project/bin/Debug/net6.0/project.deps.json
+/Users/sdfsdfssfsdfds/seminars/project/bin/Debug/net6.0/project.runtimeconfig.json
+/Users/sdfsdfssfsdfds/seminars/project/bin/Debug/net6.0/project.dll
+/Users/sdfsdfssfsdfds/seminars/project/bin/Debug/net6.0/project.pdb
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/project.dll
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/refint/project.dll
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/project.pdb
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/project.genruntimeconfig.cache
+/Users/sdfsdfssfsdfds/seminars/project/obj/Debug/net6.0/ref/project.dll
